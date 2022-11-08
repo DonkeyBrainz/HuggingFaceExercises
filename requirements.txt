@@ -1,0 +1,8 @@
+transformers
+black
+pytest
+pylint
+torch
+datasets
+evaluate
+transformers[sentecepiece]
